@@ -47,4 +47,4 @@ Interested in contributing or learning more? **Open an issue** or **contact us**
 ### **"Good Food is Like Medicine" – 약식동원 (藥食同源)**  
 
 ---
-© 2019–2025 Dr.SOS LAB @ SeoulTech. All rights reserved.
+© 2019 – Present | Dr.SOS LAB @ SeoulTech | All rights reserved.
