@@ -31,7 +31,7 @@ We strictly comply with:
 ## 📚 Publications & Resources
 Stay tuned—we’ll be updating this repository with **recent publications, preprints, and datasets**.
 
-Meanwhile, check out website at [https://sites.google.com/view/drsoslab/](https://www.drsoslab.com/)
+Meanwhile, check out website at [www.drsoslab.com](https://www.drsoslab.com/)
 
 ## 🤝 Collaborate With Us
 We welcome interdisciplinary collaboration in:  
