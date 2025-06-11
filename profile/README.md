@@ -15,14 +15,14 @@ Our lab integrates biotechnology, food science, and health innovation to tackle 
 - **Food Safety Engineering** – Allergen and carcinogen reduction using genome editing  
 - **Flavor & Nutrient Enhancement** – Improving color, aroma, and nutritional profiles of fermented foods  
 
-## 📍 Location
+## Location
 **Food BioEngineering Lab**  
 Department of Food Science and Biotechnology 
 Seoul National University of Science and Technology  
 232 Gongneung-ro, Nowon-gu, Seoul, Korea 01811  
-📞 Tel: +82-2-970-6741 | Fax: +82-2-970-9736  
+📞 Tel: +82-2-970-6741 | +82-2-970-9736  
 
-## ⚖Ethics & Safety
+## Ethics & Safety
 We strictly comply with:  
 - **Bioethics**  
 - **Research ethics**  
