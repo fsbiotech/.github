@@ -1,11 +1,11 @@
-# 🧬 Food BioEngineering Lab @ SeoulTech
+# Food BioEngineering Lab @ SeoulTech
 
 Welcome to the official GitHub repository of **Dr.SOS LAB** at the **Department of Food Science and Biotechnology**, **Seoul National University of Science and Technology** (SEOULTECH), Seoul, South Korea.
 
-## 🌱 Vision
+## Vision
 We aim to **transform modern food systems** through **precision fermentation**, **microbial metabolic engineering**, and **synthetic biology** to develop **biofoods** that enhance human health and extend life expectancy.
 
-## 🧪 Research Focus
+## Research Focus
 Our lab integrates biotechnology, food science, and health innovation to tackle major challenges in nutrition and wellness:
 
 - **Bioactive Compounds** – Anticancer compounds from medicinal fungi  
@@ -20,20 +20,20 @@ Our lab integrates biotechnology, food science, and health innovation to tackle 
 Department of Food Science and Biotechnology 
 Seoul National University of Science and Technology  
 232 Gongneung-ro, Nowon-gu, Seoul, Korea 01811  
-📞 Tel: +82-2-970-6741 | 📠 Fax: +82-2-970-9736  
+📞 Tel: +82-2-970-6741 | Fax: +82-2-970-9736  
 
-## ⚖️ Ethics & Safety
+## ⚖Ethics & Safety
 We strictly comply with:  
-- 🔒 **Bioethics**  
-- 📚 **Research ethics**  
-- 🧫 **Biosafety regulations**  
+- **Bioethics**  
+- **Research ethics**  
+- **Biosafety regulations**  
 
-## 📚 Publications & Resources
+## Publications & Resources
 Stay tuned—we’ll be updating this repository with **recent publications, preprints, and datasets**.
 
 Meanwhile, check out website at [www.drsoslab.com](https://www.drsoslab.com/) for more information!
 
-## 🤝 Collaborate With Us
+## Collaborate With Us
 We welcome interdisciplinary collaboration in:  
 - Computational biology  
 - Machine learning in bioinformatics  
